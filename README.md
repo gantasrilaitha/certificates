@@ -1,2 +1,2 @@
-# certificates
-all internship and hackathon certificates
+# Certificates
+All my internship and hackathon certificates
